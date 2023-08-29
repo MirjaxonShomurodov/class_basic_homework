@@ -4,5 +4,3 @@
 class Person:
     def __init__(self,name):
         self.name = name
-Name=Person("Mirjaxon")
-print(Name.name)
